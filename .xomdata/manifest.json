@@ -35,5 +35,7 @@
   "practice/sql/medium/medium-having-019/solution.sql": "578589926bb1ae741631eb46b019607e0fda8043c5871aeb0e8b112e6dfd4d84",
   "practice/sql/medium/medium-having-128/solution.sql": "cc3e14494ebed63b291651532ccc7c7d381b26baf4558076518f0d045e8546ba",
   "practice/sql/medium/medium-having-162/solution.sql": "e86df6b9961b321fae6e7640c47ce86f7e32702c78235f9dbf19a675efa16971",
-  "practice/sql/medium/medium-having-187/solution.sql": "4fdcf4c077de65254eebc055281941c5f44e375d27012c8a13a1c21cbb772434"
+  "practice/sql/medium/medium-having-187/solution.sql": "4fdcf4c077de65254eebc055281941c5f44e375d27012c8a13a1c21cbb772434",
+  "practice/sql/medium/medium-groupby-097/solution.sql": "a9baf9ddc17892a1d000ba929baa5893f5a9076bdb4799c562fa3dd44490d8d4",
+  "practice/sql/medium/medium-join-014/solution.sql": "fea70fae879951614c8b6e4676002e0770e4751e209a3887579a441c12016c74"
 }
